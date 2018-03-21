@@ -1,2 +1,3 @@
 test site
+update index page to be less generic
 
